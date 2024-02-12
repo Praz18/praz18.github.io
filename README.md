@@ -2,7 +2,7 @@
 This is the base website for my GitHub repositories.
 
 ## Author
-Logan (Praz 18)
+Logan (Praz 18): logandprasczewicz@lewisu.edu
 
 ## Credits
 [W3Schools HTML Tutorial](https://www.w3schools.com/html/) and Eric Pogue for the HTML template code. Credits to GitHub and GitPages for hosting the site.
