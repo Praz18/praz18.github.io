@@ -1,12 +1,11 @@
-# Hello World for the Web Template
-This project provides template code for Hello World for the Web and is based on 
-[W3Schools HTML Tutorial](https://www.w3schools.com/html/). 
+# Praz18 Base Site
+This is the base website for my GitHub repositories.
 
 ## Author
-Eric Pogue [email:epogue@lewisu.edu](mailto:epogue@lewisu.edu)
+Logan (Praz 18)
 
 ## Credits
-[W3Schools HTML Tutorial](https://www.w3schools.com/html/) for the HTML template code.
+[W3Schools HTML Tutorial](https://www.w3schools.com/html/) and Eric Pogue for the HTML template code.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
