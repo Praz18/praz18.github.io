@@ -11,4 +11,4 @@ Logan (Praz 18)
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
 ## Execute Instructions
-Executable as an HTML file or through URL. All projects linked from this site.
+Executable as an HTML file or through URL. All projects on Assignment Portfolio linked through this site.
